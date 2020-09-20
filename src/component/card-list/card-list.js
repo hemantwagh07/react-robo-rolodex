@@ -5,8 +5,8 @@ import './card-list.css'
 export const CardList = props => {
     return (
         <div className='card-list'>{
-            props.monsters.map((monster) => (
-                <Card monster={monster} />
+            props.robots.map((robot) => (
+                <Card key={robot.id} robot={robot} />
             ))
         }
         </div>
