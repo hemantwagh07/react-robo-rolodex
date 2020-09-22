@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Application Description
+Simple React application to demonstrate use of state and props. 
+Use of class and function components.
+Search functionality
+
 ## Available Scripts
 
 In the project directory, you can run:
